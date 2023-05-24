@@ -20,12 +20,6 @@ const props = defineProps({
         required: true
     }
 })
-
-const expanded = false;
-const cambiarExpanded = () => {
-    expanded = !expanded;
-}
-
 </script>
 
 <style scoped>
